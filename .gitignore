@@ -1,0 +1,4 @@
+out/
+*.class
+.atomcode/
+.DS_Store
